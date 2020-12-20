@@ -34,8 +34,8 @@ Abra _**http://localhost:3000**_ para verlo en el navegador.
 
 ### Imagenes del proyecto :flower_playing_cards:
 
-![img1-muestra](./img-muestra/img1-muestra.png)  
-![img2-muestra](./img-muestra/img2-muestra.png)
+![img1-muestra](./img-muestra/img1.png)  
+![img2-muestra](./img-muestra/img2.png)
 
 ### Autor [:octocat:](https://github.com/OmarVargas235)
 
