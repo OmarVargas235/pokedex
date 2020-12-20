@@ -8,7 +8,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 Que cosas necesitas para correr el **Proyecto**:
 
-* webpack instalado.
+* Webpack instalado.
 * Typescript instalado.
 * Sass instalado.
 * Tener configurado webpack.
