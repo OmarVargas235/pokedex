@@ -1,4 +1,4 @@
-# pokedex
+# pokede
 
 ## Comenzando :rocket:
 
